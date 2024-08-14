@@ -1,5 +1,5 @@
-# 24 FrontendMasters Getting a job (v3)
+# 2024 - FrontendMasters - Getting a job (v3)
 
-Notes for the course "Getting a Software Engineering Job, v3" by Jerome Hardaway in Frontend Masters.
+Notes for the course "Getting a Software Engineering Job, v3" taught by Jerome Hardaway at Frontend Masters.
 
-Course taken on August 2024.
+Taken in August 2024.
